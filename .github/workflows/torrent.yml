@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "dr"
+  name: "n"
   comment: "Android Studio for Windows"
-  url: "https://swr.cloud.blackmagicdesign.com/DaVinciResolve/v18.6.6/DaVinci_Resolve_18.6.6_Windows.zip?verify=1716366561-CJ5kTIB2kdxpxEqZ%2BLzKWLzwumjGd4wcj%2FlmeLHJ28g%3D"
-  file_name: "DaVinci_Resolve_18.6.6_Windows.zip"
-  piece_size: 21 # Check the README.md for recommended piece size
+  url: "https://res06.bignox.com/full/20240418/302ea2e2c5284db68e5494d3e7989c0c.exe?filename=nox_setup_v7.0.6.0_full_intl.exe"
+  file_name: "nox_setup_v7.0.6.0_full_intl.exe"
+  piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
   create:

@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
+  name: "coc"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
+  url: "https://dw.uptodown.net/dwn/BEcxSSTkJW-9lbrEJEioGrDnfy7RJL2gOGvrWzkQA87kn0leHaFveUPu_xfGsR5eO1MCeygjeG0ekAUuzRF0YvV2iXKVJ7CQetk9qO3JHFFwJIu_mEzfekfSusXFInJw/r69YCtwNvjJSYBQGrhmx58nkRRfXH9RpGvmeXeHAMcmmEj2tGTvcGqXG6lSRZ5PUH7I2-bgB55Gp_au2O9AJGAReaQtnm2eXS4_nqpfDWZpaq6XVyq6anUwFfKWGP3v2/lJ_-HApA2UjyIunNN1zIkWYU5pIYiRe5_5EwK50putk-XZpfxHcYSfT75wR--BVp-IoLcBtAdhWzpSMmRglMYnHAwFWQh0fnpVYnhWkIMeg=/clash-of-clans-16-253-25.apk"
+  file_name: "clash-of-clans-16-253-25.apk"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

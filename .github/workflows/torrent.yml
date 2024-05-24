@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "ld"
+  name: "mc"
   comment: "Android Studio for Windows"
-  url: "https://encdn.ldmnq.com/download/package/LDPlayer9.0.exe"
-  file_name: "LDPlayer9.0.exe"
+  url: "https://dl.download.it/android/v2/US/minecraft-trial.apk?st=UHHINEEhd0-aJ_ofdiYEAA&e=1716533549"
+  file_name: "minecraft-trial.apk"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

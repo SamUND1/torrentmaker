@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "ab2obb"
+  name: "pvz2obb"
   comment: "Android Studio for Windows"
-  url: "https://srv003.apk.gold/storage/17/142/4142/com.rovio.baba-3.22.1-31882466.obb?s=KsudBv15ynipqsOTXvgAew&e=1716714995&lang=en&apk_id=1270&obb_id=34959"
-  file_name: "com.rovio.baba-3.22.1-31882466.obb"
+  url: "https://srv003.apk.gold/storage/17/639/2639/com.ea.game.pvz2_row-11.3.1-855.obb?s=xHGxVVTY2EEmBd9nVqahYQ&e=1716715052&lang=en&apk_id=2618&obb_id=34747"
+  file_name: "com.ea.game.pvz2_row-11.3.1-855.obb"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

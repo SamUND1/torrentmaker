@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "mc"
+  name: "pvz3"
   comment: "Android Studio for Windows"
-  url: "https://dl.download.it/android/v2/US/minecraft-trial.apk?st=UHHINEEhd0-aJ_ofdiYEAA&e=1716533549"
-  file_name: "minecraft-trial.apk"
+  url: "https://dw.uptodown.net/dwn/UnGKlSAJRYQH9FHwA93W6p1rCvu7I3tyeuVHFohIKE26oiDI-E_ZIWQBz-4OzqFS1K3mlt0OKj2vHnPYvxLwcr1xtl24YaEuzjGP4DThngxt3IhCPO2phwatQac6ur3t/xJ00Lw-IOxZOHXLiYcat-Lpr_eG-V_3JiEl-5kHe9Ewjnw0xM8X_3yv9GxFJZFrGlfUeWH5fYfjLtd3KGmhEwEZY5fapJhpy-jrKggIVdHBiGWF883mZKAjDSLhkvvAV/AgsN4Enj8LLtRvA6Mta4NZpoRGUcMDmXj43OXW7kZF5mW4optZra2LJLtHApilccjU7AqbDheXhpnUPsCmC8bHs3JjkgIUO4ZbJ-cy--e6yN9wC1MrmcpdUm85xEF40f/plants-vs-zombies-3-12-0-13.apk"
+  file_name: "plants-vs-zombies-3-12-0-13.apk"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

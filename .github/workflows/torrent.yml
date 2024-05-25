@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "pvz2apk"
+  name: "pp"
   comment: "Android Studio for Windows"
-  url: "https://srv003.apk.gold/storage/17/639/2639/arm64_v8a-armeabi_v7a/cfa0c5b974cfd2f960d86ab63364214d/Plants_Vs_Zombies_2-11.3.1.apk?s=wx5CUt_QiEff1tzdZjcnJw&e=1716715050&lang=en&apk_id=2618"
-  file_name: "Plants_Vs_Zombies_2-11.3.1.apk"
+  url: "https://dw.uptodown.net/dwn/hJiOQLTx4MRA-CpKwwOelcu-m1pLee7LldzQFh1ZPTN_ebHLXF1rSFtDmYmp_EH03R9OlGuYBe72pzb14pz2biAS60phVZztOFebnjB1hQCCrHVJjOCtoI0JiMS56JW_/enQCuMJTFXiQ-Bn8SkGSbXP0i54XJOmhItvBXJPakXupm0LF7bIrqby0n51a09ABN4Gfpxgx7nZbUimrfu7_lxOw3ChhP3h3Qg8bO0roPlowG_wYfZm46UmOjsS8dGfi/qEl6lmtRo3CrVuq2ymKyvAaiG8YhUoH1ePwrSFB8LnAIAOZ5Ax3kIccd2t7-7xplM4yzYLENpGvQI0Je3M_A8JJBnHPAzEFxvn80tcLHmnw=/plunder-pirates-2-7-1.apk"
+  file_name: "plunder-pirates-2-7-1.apk"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

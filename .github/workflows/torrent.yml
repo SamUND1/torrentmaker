@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "ppobb"
+  name: "cocnew"
   comment: "Android Studio for Windows"
-  url: "https://s1.revdl.com/1901/Plunder_Pirates_3.8.2__0148_Revdl.com.zip"
-  file_name: "Plunder_Pirates_3.8.2__0148_Revdl.com.zip"
+  url: "https://dw.uptodown.net/dwn/cUGzLAtX5zxJCK9PgDoM_emTM2i3JSReOWO4S-C5TpGt6dqhEeuH7tTLnuRcemi6l4wYWQ9lLoEXXikv94UZwzvBojOTLHaOBmTAVChSmeco_jmWLf0GqGCduX7R712B/4ScOUOXD03zTs0R0VCR0jar24rgvQxedg6d9KAlpI-9GLGtRtNJPht0Z471SKmuLcJ14kotWu2GhfoIP8zDKw9fGd4SZxld86Oe_BBOKhuwl-A6Xlho0KQIWZX-zfQmk/ocuBzG11Nm3YDq1-eej33ipnAf4coy8LvWcpOQnR4kQLn-8S9YjXaXtWx1BCxqdRSh6EmaEH0_gkRzfDoeG0kJWlrsV3e7lxSfOPp1LsMqk=/clash-of-clans-16-253-25.apk"
+  file_name: "clash-of-clans-16-253-25.apk"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

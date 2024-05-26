@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "jh"
+  name: "ppobb"
   comment: "Android Studio for Windows"
-  url: "https://dw.uptodown.net/dwn/hJiOQLTx4MRA-CpKwwOelcu-m1pLee7LldzQFh1ZPTPn9SxCdttsKJs570KM4cwk7BFWtcFLJn1U4ZU4LhPJjC241QFKm3LNz53XtwU2Jcm6s63k8V1BdwwWjouL77TV/AH1zjELyjRm9_s5BgQopflUrp2n_SPzH_L7Z362C3y5Vz3Jwq7PlB0Enas2H7x09vrxPs6pHpIaif6izkKpEH1bnCiUZhkFpooYaTvxD-skrQ7o_n2HgDvUw2Ig14htb/jIXmMVh_k0jZ04_LJ4bXz-clqWOm40brKl8qKOHy2zClHUMnaDzAC57fi96ou3S8_z7UXX0DYYEPWRZVgyqaMfFUAaiB3hcDGRKr237w6F8=/jungle-heat-2-2-6.apk"
-  file_name: "jungle-heat-2-2-6.apk"
+  url: "https://s1.revdl.com/1901/Plunder_Pirates_3.8.2__0148_Revdl.com.zip"
+  file_name: "Plunder_Pirates_3.8.2__0148_Revdl.com.zip"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

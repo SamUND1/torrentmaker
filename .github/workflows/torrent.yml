@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "ge"
+  name: "pvzf"
   comment: "Android Studio for Windows"
-  url: "https://objects.githubusercontent.com/github-production-release-asset-2e65be/15634981/6b875bf5-9230-4850-bc4b-4de978817b22?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240605%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240605T085707Z&X-Amz-Expires=300&X-Amz-Signature=ee3ee8905667f4f708d621294ba95bfd1be7dfd48d13af542f7f1e449f40edf9&X-Amz-SignedHeaders=host&actor_id=94167570&key_id=0&repo_id=15634981&response-content-disposition=attachment%3B%20filename%3DGodot_v4.2.2-stable_win64.exe.zip&response-content-type=application%2Foctet-stream"
-  file_name: "Godot_v4.2.2-stable_win64.exe.zip"
+  url: "https://dw.uptodown.net/dwn/EWZT60i5gVflSIU3o5P1RXVyf3osgW8W8TkJ65RrHItDO4_5qNOlpZu8Rupe0gmu9dHXUs7Wxp5yF7CcZGl9L10Nn1MO-4WtefuBM5ClAxs4FRrxw2VMGwYjaPKTRY5e/TCZRcv1C1VvbiKfm7473gYYS-G0UZfBHNWb-DUczmSfgTpWtt7-hG_yEIFBuzmvCWi24Ycg18QcvSBpjrkLQs57ufqAyZpMOzVrdeLBIRQ8AxkUxfbxMoOE2hUMbw8wM/r6WjtQvLyKKnXohCTsU8jQTOSsNty55nQvzuG_duFl3pBdUM45GORbsClgT0kfBbX6cgwghQ8xDwKsqo4ASD-ebxv6SBgILw8SDHOkIuURb8SMEnNH6oK00_M-hqG0Sd/plants-vs-zombies-free-3-5-5.apk"
+  file_name: "plants-vs-zombies-free-3-5-5.apk"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

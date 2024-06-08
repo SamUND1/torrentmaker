@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "pvzf"
+  name: "inkscape"
   comment: "Android Studio for Windows"
-  url: "https://dw.uptodown.net/dwn/EWZT60i5gVflSIU3o5P1RXVyf3osgW8W8TkJ65RrHItDO4_5qNOlpZu8Rupe0gmu9dHXUs7Wxp5yF7CcZGl9L10Nn1MO-4WtefuBM5ClAxs4FRrxw2VMGwYjaPKTRY5e/TCZRcv1C1VvbiKfm7473gYYS-G0UZfBHNWb-DUczmSfgTpWtt7-hG_yEIFBuzmvCWi24Ycg18QcvSBpjrkLQs57ufqAyZpMOzVrdeLBIRQ8AxkUxfbxMoOE2hUMbw8wM/r6WjtQvLyKKnXohCTsU8jQTOSsNty55nQvzuG_duFl3pBdUM45GORbsClgT0kfBbX6cgwghQ8xDwKsqo4ASD-ebxv6SBgILw8SDHOkIuURb8SMEnNH6oK00_M-hqG0Sd/plants-vs-zombies-free-3-5-5.apk"
-  file_name: "plants-vs-zombies-free-3-5-5.apk"
+  url: "https://media.inkscape.org/dl/resources/file/inkscape-1.3.2_2023-11-25_091e20e-x64.msi"
+  file_name: "inkscape-1.3.2_2023-11-25_091e20e-x64.msi"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

@@ -7,8 +7,8 @@ on:
 env:
   name: "ctr1"
   comment: "Android Studio for Windows"
-  url: "https://dw.uptodown.net/dwn/4oxNb1Lgr9q4yiggE8LT2ZhQrrrHH1gADrRppItOhE9Ef5G4pusvybIidLqauA18I85qWLIXltpVJgkH8aJU3N7fm33LP0MZkCQ08-T9I2StShLDWS-2pT-hW5-ys4_O/oOIg5CG5itatjv5g_P1d5Ol34LBSL86I4VeOJkLW820AdeN3dAvBbgKJjFIJ8qmzBPUmKY8jZ05jW3x2rjlYQa_TNUM_kNqADazssGwSaGisZhokFkhAvY2b0h_rRPlK/IDA8co_PgJIRKZctzoKnUl4EC-EcHUmXEr0vqjh9548xve57fo8lj7Pk-oSTMuvtgUk71tSX9QbU56yF-Ga6b0YVXlJlJ0JP3c7nIM9-1ee7B08b1MYaaxoFYM6qhMTC/cut-the-rope-time-travel-1-18-0.apk"
-  file_name: "cut-the-rope-time-travel-1-18-0.apk"
+  url: "https://dw.uptodown.net/dwn/4oxNb1Lgr9q4yiggE8LT2ZhQrrrHH1gADrRppItOhE-j_2eYBq64jaVceyO3RwMqZR0sKMZOvfgYkfHEXCJeI7Ve6XxyLGRLPIXBiI5DbIeRGyglJRJAZZ87TGlg9oZX/Tr1aHHDeHNnOkoYl9eqx-j1ZOJ9brgzeFsnkQeTrCklIiZSdYHuxBQSeIBVcLif1ZLEdidifK8zJoM_mEDwVXF9E11YI7wFYbt3lcz2EzrD8dYMdunX-anfLJUpapoOC/KYhXAcKA5PEHdwUMdBwWoJEGpWqpaBrV6FOhWz-Fl-s4I953YlRx2QIho78zAr7z5ZAbV7036XBlwCRYCUDdMyaoP6OBRbeR4GNaz5zOcCFrmoqRGY_EUoK3BLHxbL_y/cut-the-rope-experiments-1-14-0.apk"
+  file_name: "cut-the-rope-experiments-1-14-0.apk"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

@@ -7,8 +7,8 @@ on:
 env:
   name: "godotapk"
   comment: "Android Studio for Windows"
-  url: "https://objects.githubusercontent.com/github-production-release-asset-2e65be/15634981/eb63ec7f-6d7a-4fbb-b470-bb4b616428b2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240712T125235Z&X-Amz-Expires=300&X-Amz-Signature=4831a846b96b9dc6a1c486404a91f41d8eafb8ae7b2d97fb5e91c126dd954c94&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=15634981&response-content-disposition=attachment%3B%20filename%3DGodot_v4.2.2-stable_android_editor.apk&response-content-type=application%2Fvnd.android.package-archive"
-  file_name: "Godot_v4.2.2-stable_android_editor.apk"
+  url: "https://cdn.androidcombo.com/org.godotengine.editor.v4/Godot%20Editor%204_4.2.2.stable_apkcombo.com.apk?ecp=b3JnLmdvZG90ZW5naW5lLmVkaXRvci52NC80LjIuMi5zdGFibGUvNDAyMDI1MDAuZDY5Zjc0OWFmZTc2ZWRlM2E1YzMzYzM1ZTdmZTZlZWIzOGMyOTQ3Ni5hcGs%3D&iat=1720789728&sig=570bf792a60275eb299cb414ed1121d5&size=179160384&from=cf&version=latest&lang=en&fp=7baafd7bc4ec2c86dba281cea8e2b1e9&ip=94.47.128.190"
+  file_name: "Godot Editor 4_4.2.2.stable_apkcombo.com.apk"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

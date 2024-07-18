@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "godotapk"
+  name: "blender4"
   comment: "Android Studio for Windows"
-  url: "https://cdn.androidcombo.com/org.godotengine.editor.v4/Godot%20Editor%204_4.2.2.stable_apkcombo.com.apk?ecp=b3JnLmdvZG90ZW5naW5lLmVkaXRvci52NC80LjIuMi5zdGFibGUvNDAyMDI1MDAuZDY5Zjc0OWFmZTc2ZWRlM2E1YzMzYzM1ZTdmZTZlZWIzOGMyOTQ3Ni5hcGs%3D&iat=1720789728&sig=570bf792a60275eb299cb414ed1121d5&size=179160384&from=cf&version=latest&lang=en&fp=7baafd7bc4ec2c86dba281cea8e2b1e9&ip=94.47.128.190"
-  file_name: "Godot Editor 4_4.2.2.stable_apkcombo.com.apk"
+  url: "https://mirrors.dotsrc.org/blender/release/Blender4.2/blender-4.2.0-windows-x64.msi"
+  file_name: "blender-4.2.0-windows-x64.msi"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

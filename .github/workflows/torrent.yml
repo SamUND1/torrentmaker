@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "blender4"
+  name: "blender4.0"
   comment: "Android Studio for Windows"
-  url: "https://mirrors.dotsrc.org/blender/release/Blender4.2/blender-4.2.0-windows-x64.msi"
-  file_name: "blender-4.2.0-windows-x64.msi"
+  url: "https://download.blender.org/release/Blender4.0/blender-4.0.0-windows-x64.msi"
+  file_name: "blender-4.0.0-windows-x64.msi"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

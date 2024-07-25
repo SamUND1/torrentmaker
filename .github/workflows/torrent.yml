@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "blender4.0"
+  name: "fool"
   comment: "Android Studio for Windows"
-  url: "https://download.blender.org/release/Blender4.0/blender-4.0.0-windows-x64.msi"
-  file_name: "blender-4.0.0-windows-x64.msi"
+  url: "https://support.image-line.com/redirect/flstudio_win_installer"
+  file_name: "flstudio_win64_24.1.1.4239.exe"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:

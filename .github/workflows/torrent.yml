@@ -7,7 +7,7 @@ on:
 env:
   name: "fool"
   comment: "Android Studio for Windows"
-  url: "https://support.image-line.com/redirect/flstudio_win_installer"
+  url: "https://www.image-line.com/fl-studio-download/"
   file_name: "flstudio_win64_24.1.1.4239.exe"
   piece_size: 19 # Check the README.md for recommended piece size
       

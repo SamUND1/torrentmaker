@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "fool"
+  name: "c"
   comment: "Android Studio for Windows"
-  url: "https://www.image-line.com/fl-studio-download/"
-  file_name: "flstudio_win64_24.1.1.4239.exe"
+  url: "https://download193.uploadhaven.com/1/application/zip/2XELJM944VGzkqNVGQwCBIsRnowHuLXXmrAvyqcC.zip?key=uWMmNc-bT7T4nOLdkG0P7w&expire=1722775522&filename=Celeste.v1.4.0.0.zip"
+  file_name: "Celeste.v1.4.0.0.zip"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
